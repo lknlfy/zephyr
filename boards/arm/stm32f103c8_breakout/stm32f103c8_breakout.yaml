@@ -1,0 +1,8 @@
+identifier: stm32f103c8_breakout
+name: STM32-MIN-DEV
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 20
