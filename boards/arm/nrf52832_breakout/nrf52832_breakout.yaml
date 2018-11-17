@@ -1,0 +1,12 @@
+identifier: nrf52832_breakout
+name: nrf52832-breakout
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 64
+flash: 512
+supported:
+  - adc
+  - nvs
