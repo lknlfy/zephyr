@@ -1,5 +1,5 @@
 identifier: nrf52832_breakout
-name: nrf52832-breakout
+name: nRF52832-BREAKOUT
 type: mcu
 arch: arm
 toolchain:
